@@ -1,0 +1,18 @@
+{
+    "name": "user/contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hplink",
+            "email": "hp616725@gmail.coom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hplink\\Contact\\": "src/"
+        }
+    },
+}
